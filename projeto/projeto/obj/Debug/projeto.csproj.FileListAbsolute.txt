@@ -1,0 +1,10 @@
+C:\Users\Joshuan\source\repos\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\Joshuan\source\repos\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\Joshuan\source\repos\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.csprojAssemblyReference.cache
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.Form1.resources
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.Properties.Resources.resources
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.csproj.GenerateResource.cache
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\Joshuan\source\repos\projeto\projeto\obj\Debug\projeto.pdb

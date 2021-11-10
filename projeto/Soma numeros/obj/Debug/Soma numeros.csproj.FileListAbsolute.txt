@@ -1,0 +1,7 @@
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\bin\Debug\Soma numeros.exe.config
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\bin\Debug\Soma numeros.exe
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\bin\Debug\Soma numeros.pdb
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\obj\Debug\Soma numeros.csproj.CoreCompileInputs.cache
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\obj\Debug\Soma numeros.exe
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\obj\Debug\Soma numeros.pdb
+C:\Users\Joshuan\source\repos\projeto\Soma numeros\obj\Debug\Soma numeros.csprojAssemblyReference.cache
